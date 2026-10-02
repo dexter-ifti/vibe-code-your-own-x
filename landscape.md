@@ -139,6 +139,39 @@ These projects came from a second research pass focused on the seams between mod
 | [Diablo Web AI](https://github.com/levidehaan/diablowebai) | Hall of Fame | Adds generated campaigns, dungeons, dialogue, and characters to a classic game |
 | [AgentSpore](https://github.com/AgentSpore) | Watch | A social/marketplace experiment around agents building and owning products; inspect incentives and licensing carefully |
 
+### Multimodal interfaces and AI-native workspaces
+
+| Project | Role | Signal |
+| --- | --- | --- |
+| [OpenCanvas](https://github.com/ashark-ai-05/opencanvas) | Build/Study | Local-first infinite canvas where agents place typed widgets instead of returning only text |
+| [SheetBrain](https://github.com/microsoft/SheetBrain) | Study/Build | Understand → Execute → Validate loop for multimodal spreadsheet analysis |
+| [LLM Data Agent](https://github.com/quguolin/llm-data-agent) | Build | Privacy-first data analysis where the model sees schemas and aggregates, not raw rows |
+| [agent-spreadsheet](https://github.com/PSU3D0/agent-spreadsheet) | Build/Use | Token-efficient, stateful spreadsheet operations exposed through CLI, SDK, WASM, and MCP |
+| [SheetAgent](https://github.com/hvithalani/sheetagent) | Build | Learn a transformation once, then run the generated recipe without an LLM |
+| [SheetProof](https://github.com/Almehmadi-Ai/sheetproof) | Build | Deterministic calculations and provenance instead of model-generated arithmetic |
+| [Autonomous Analytics Agents](https://github.com/m-peker/autonomous-analytics-agents) | Study | Multi-stage data quality, analysis, forecasting, visualization, and reporting pipeline |
+
+### Operations, maintenance, and incident agents
+
+| Project | Role | Signal |
+| --- | --- | --- |
+| [Akmatori](https://github.com/akmatori/akmatori) | Study/Use | Approval-gated incident investigation with runbooks, tools, memory, and remediation |
+| [Aurora](https://github.com/Arvo-AI/aurora) | Study/Use | Multi-cloud RCA agents, infrastructure dependency graphs, sandboxes, and fix PRs |
+| [Causa](https://github.com/npmiaman/causa) | Build/Study | Counterfactual incident response using structural causal graphs and experiments |
+| [Harness Agentic Workflows](https://github.com/harness/harness-skills) | Study/Use | Portable agent skills for CI/CD operation, diagnosis, and governance |
+| [GitHub Agentic Workflows](https://github.com/github/gh-aw) | Study/Use | Event-driven agent automation inside a repository permission model |
+
+### Local runtimes and inference primitives
+
+| Project | Role | Signal |
+| --- | --- | --- |
+| [Talu](https://github.com/aprxi/talu) | Build/Study | Single-binary Zig runtime with quantization, embeddings, tool calling, and remote routing |
+| [llama.cpp](https://github.com/ggml-org/llama.cpp) | Study/Use | Portable local inference, quantization, and server primitives |
+| [MLX](https://github.com/ml-explore/mlx) | Study/Use | Apple Silicon-native array and machine-learning runtime |
+| [vLLM](https://github.com/vllm-project/vllm) | Study/Use | High-throughput serving and batching for open models |
+| [SGLang](https://github.com/sgl-project/sglang) | Study/Use | Structured generation and efficient serving for complex LLM programs |
+| [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | Study/Use | GPU-optimized inference and deployment patterns |
+
 ## What we promote into the main catalog
 
 The main catalog should not mirror this list. We promote a reference only when we can express a small, framework-independent build with:

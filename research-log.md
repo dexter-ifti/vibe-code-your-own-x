@@ -37,6 +37,16 @@ This log exists so the collection shows its work. It records what was searched, 
 
 **Representative sources:** [Awesome Agent Harnesses](https://github.com/NeuraLiying/Awesome-Agent-Harnesses), [BrowserGym](https://github.com/ServiceNow/BrowserGym), [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox), [OpenRAL](https://github.com/OpenRAL/openral), [InternAgent](https://github.com/InternScience/InternAgent), [Mimir](https://github.com/csornyei/mimir), and [Open SWE](https://github.com/langchain-ai/open-swe).
 
+## Pass 4 — AI-native work surfaces and maintenance
+
+**Date:** 2026-10-02
+
+**Focus:** multimodal canvases, spreadsheet/data agents, deterministic analysis, incident response, causal debugging, local inference runtimes, and agentic maintenance.
+
+**Output:** new sections in [`landscape.md`](landscape.md) for multimodal workspaces, operations, and inference primitives.
+
+**Representative sources:** [OpenCanvas](https://github.com/ashark-ai-05/opencanvas), [SheetBrain](https://github.com/microsoft/SheetBrain), [agent-spreadsheet](https://github.com/PSU3D0/agent-spreadsheet), [Akmatori](https://github.com/akmatori/akmatori), [Causa](https://github.com/npmiaman/causa), and [Talu](https://github.com/aprxi/talu).
+
 ## Promotion rules
 
 Every candidate is assigned one of four homes:
