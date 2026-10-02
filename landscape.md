@@ -172,6 +172,36 @@ These projects came from a second research pass focused on the seams between mod
 | [SGLang](https://github.com/sgl-project/sglang) | Study/Use | Structured generation and efficient serving for complex LLM programs |
 | [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | Study/Use | GPU-optimized inference and deployment patterns |
 
+### Spatial, design, and creative agents
+
+| Project | Role | Signal |
+| --- | --- | --- |
+| [Cognograph](https://github.com/skovalik/cognograph) | Study/Build | Canvas topology controls context injection, permissions, and workflow triggers |
+| [Doop](https://github.com/kgoedecke/doop) | Study/Use | Multiplayer design canvas where MCP agents edit live HTML frames with humans |
+| [PenEcho](https://github.com/penecho/penecho) | Study/Use | Spatial workspace for diagrams, handwriting, equations, previews, and agent feedback |
+| [Dim0](https://github.com/vcmf/dim0) | Study/Use | Real-time board with notes, mini-apps, code sandboxes, documents, and a board-aware agent |
+| [OpenPencil](https://github.com/open-pencil/open-pencil) | Study/Use | Programmable Figma alternative with MCP, headless SDK, and design-file tooling |
+| [OmniCanvas](https://github.com/ye971829766/OmniCanvas) | Watch/Study | AI-native vector canvas where agents plan, lay out, generate, and edit visual work |
+| [BeatDesign](https://github.com/BeatAPI/BeatDesign) | Study/Use | Local-first image/video canvas, editor, asset graph, and MCP workspace |
+
+### Education and learning agents
+
+| Project | Role | Signal |
+| --- | --- | --- |
+| [OpenTutor](https://github.com/zijinz456/OpenTutor) | Study/Use | Local adaptive learning workspace with knowledge graphs and spaced repetition |
+| [Tutor MCP](https://github.com/ArnaudGuiovanna/tutor-mcp) | Build/Study | MCP-based curriculum graph, diagnosis, exercises, and narrative memory |
+| [Inno Agent](https://github.com/hhyqhh/inno-agent) | Study/Use | Learner profile, wiki, cross-session recall, scheduling, and practice lab |
+
+### Practical vertical agents
+
+| Project | Role | Signal |
+| --- | --- | --- |
+| [SheetBrain](https://github.com/microsoft/SheetBrain) | Study/Build | Multimodal spreadsheet agent with explicit validation stage |
+| [Akmatori](https://github.com/akmatori/akmatori) | Study/Use | Incident agent with approval-gated remediation and runbook memory |
+| [Causa](https://github.com/npmiaman/causa) | Build/Study | Causal graph plus counterfactual experiments for incident response |
+| [ai-data-analyst-agent](https://github.com/sohaggain/ai-data-analyst-agent) | Build | Bounded pandas operations instead of arbitrary model-generated code |
+| [autonomous-analytics-agents](https://github.com/m-peker/autonomous-analytics-agents) | Study | Multi-agent pipeline for data quality, statistics, forecasting, and reports |
+
 ## What we promote into the main catalog
 
 The main catalog should not mirror this list. We promote a reference only when we can express a small, framework-independent build with:

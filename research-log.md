@@ -47,6 +47,16 @@ This log exists so the collection shows its work. It records what was searched, 
 
 **Representative sources:** [OpenCanvas](https://github.com/ashark-ai-05/opencanvas), [SheetBrain](https://github.com/microsoft/SheetBrain), [agent-spreadsheet](https://github.com/PSU3D0/agent-spreadsheet), [Akmatori](https://github.com/akmatori/akmatori), [Causa](https://github.com/npmiaman/causa), and [Talu](https://github.com/aprxi/talu).
 
+## Pass 5 — Spatial interfaces, creative tools, and learning systems
+
+**Date:** 2026-10-02
+
+**Focus:** canvases where agents manipulate persistent spatial state, AI-native design editors, collaborative creative workspaces, adaptive tutors, and practical vertical agents.
+
+**Output:** new sections in [`landscape.md`](landscape.md) for spatial/creative agents, education, and vertical systems.
+
+**Representative sources:** [Doop](https://github.com/kgoedecke/doop), [PenEcho](https://github.com/penecho/penecho), [Dim0](https://github.com/vcmf/dim0), [OpenPencil](https://github.com/open-pencil/open-pencil), [OpenTutor](https://github.com/zijinz456/OpenTutor), and [Tutor MCP](https://github.com/ArnaudGuiovanna/tutor-mcp).
+
 ## Promotion rules
 
 Every candidate is assigned one of four homes:
