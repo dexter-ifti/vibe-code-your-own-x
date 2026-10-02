@@ -42,6 +42,8 @@ For a broader map of existing tutorials, frameworks, coding agents, memory syste
 
 The [`hall-of-fame.md`](hall-of-fame.md) collects exceptional real-world builds and the engineering lessons we can extract from them.
 
+The [`research-log.md`](research-log.md) records the research passes, promotion rules, and next areas to investigate so this collection stays auditable as it grows.
+
 ## Status
 
 This is the first local foundation. The catalog is intentionally opinionated and incomplete. We will grow it through runnable implementations, community submissions, and periodic research passes.
