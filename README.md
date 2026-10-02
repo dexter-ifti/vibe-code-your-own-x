@@ -40,6 +40,8 @@ The current curated seed list is in [`catalog.md`](catalog.md). The research and
 
 For a broader map of existing tutorials, frameworks, coding agents, memory systems, and frontier projects, see [`landscape.md`](landscape.md). It is a reference layer—not a second undifferentiated awesome list.
 
+The [`hall-of-fame.md`](hall-of-fame.md) collects exceptional real-world builds and the engineering lessons we can extract from them.
+
 ## Status
 
 This is the first local foundation. The catalog is intentionally opinionated and incomplete. We will grow it through runnable implementations, community submissions, and periodic research passes.
