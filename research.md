@@ -40,6 +40,12 @@ Coding agents are being wrapped in domain-specific harnesses for games, robots, 
 
 Evidence: [Open Harness](https://github.com/autonomous-ai/openharness), [Tiny Engineer](https://github.com/jamro/tiny-engineer), [URAI](https://arxiv.org/abs/2609.39018).
 
+### 7. Practitioner discussion is converging on feedback, specs, and telemetry
+
+Recent X and Reddit discussions repeatedly point to the same meta-pattern: an agent should not be judged by one impressive completion. Strong systems use executable specifications, feedback loops, trace collection, and a harness that can be evaluated and improved over time. These are useful signals, but social posts are treated as hypotheses until backed by a runnable project or primary source.
+
+Evidence: [long-running agent workflow thread on X](https://x.com/systematicls/status/2038241033755168959), [spec-driven development thread on X](https://x.com/bijan_sha/status/2033417572650225693), [Reddit harness-evaluation discussion](https://www.reddit.com/r/vibecoding/comments/1uodgoe/evalharness_agent_harness_evaluation_framework/), [Reddit workflow discussion](https://www.reddit.com/r/vibecoding/comments/1twmm3j/how_are_you_keeping_ai_coding_tool_instructions/).
+
 ## Editorial criteria
 
 An entry belongs in the catalog when it satisfies most of these:
