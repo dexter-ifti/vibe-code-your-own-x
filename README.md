@@ -30,6 +30,8 @@ The goal is not to collect every AI demo. The goal is to help a curious builder 
 
 ## Start here
 
+For the fastest browse, open the [Index](INDEX.md). It is organized by build difficulty, time, constraints, and curiosity.
+
 1. Build a [minimal agent harness](catalog.md#1-minimal-agent-harness).
 2. Add a [permission gate and crash-safe transcript](catalog.md#2-permissioned-coding-agent).
 3. Turn the loop into a [state graph](catalog.md#7-state-graph-agent).
@@ -43,6 +45,8 @@ For a broader map of existing tutorials, frameworks, coding agents, memory syste
 The [`hall-of-fame.md`](hall-of-fame.md) collects exceptional real-world builds and the engineering lessons we can extract from them.
 
 The [`research-log.md`](research-log.md) records the research passes, promotion rules, and next areas to investigate so this collection stays auditable as it grows.
+
+The comparison with the original [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x), including the gaps we are closing, is in [`comparison.md`](comparison.md). The long-term plan is in [`ROADMAP.md`](ROADMAP.md).
 
 ## Status
 
