@@ -57,6 +57,16 @@ This log exists so the collection shows its work. It records what was searched, 
 
 **Representative sources:** [Doop](https://github.com/kgoedecke/doop), [PenEcho](https://github.com/penecho/penecho), [Dim0](https://github.com/vcmf/dim0), [OpenPencil](https://github.com/open-pencil/open-pencil), [OpenTutor](https://github.com/zijinz456/OpenTutor), and [Tutor MCP](https://github.com/ArnaudGuiovanna/tutor-mcp).
 
+## Pass 6 — Learning ecosystems and curriculum
+
+**Date:** 2026-10-10
+
+**Focus:** official model-lab academies, developer learning hubs, agent courses, LLM foundations, production AI education, hardware/edge AI, robotics, and carefully selected marketplace courses.
+
+**Output:** [`learning.md`](learning.md), with learning paths mapped directly to catalog builds.
+
+**Representative sources:** [Claude Academy](https://academy.claude.com/), [OpenAI Learn](https://developers.openai.com/learn), [Mistral cookbooks](https://docs.mistral.ai/resources/cookbooks), [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction), [DeepLearning.AI Agentic AI](https://www.deeplearning.ai/courses/agentic-ai), [Stanford CS25](https://web.stanford.edu/class/cs25/), and [NVIDIA DLI teaching kits](https://developer.nvidia.com/teaching-kits).
+
 ## Promotion rules
 
 Every candidate is assigned one of four homes:

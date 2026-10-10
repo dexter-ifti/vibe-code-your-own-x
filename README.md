@@ -32,6 +32,8 @@ The goal is not to collect every AI demo. The goal is to help a curious builder 
 
 For the fastest browse, open the [Index](INDEX.md). It is organized by build difficulty, time, constraints, and curiosity.
 
+The [Learning Paths](learning.md) page maps official academies, courses, research lectures, hardware programs, and independent educators to the builds they prepare you for.
+
 1. Build a [minimal agent harness](catalog.md#1-minimal-agent-harness).
 2. Add a [permission gate and crash-safe transcript](catalog.md#2-permissioned-coding-agent).
 3. Turn the loop into a [state graph](catalog.md#7-state-graph-agent).

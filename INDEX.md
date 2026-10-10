@@ -39,6 +39,16 @@ The fast path through Vibe Code Your Own X. For context and evidence, open the l
 | What are people actually shipping? | [Vibe Coded Hall of Fame](hall-of-fame.md) |
 | How did this collection get made? | [Research log](research-log.md) |
 
+## Learn before you build
+
+| Goal | Learning path |
+| --- | --- |
+| Learn model and ML foundations | [Karpathy, fast.ai, Google MLCC, Stanford CS25](learning.md#strong-independent-and-academic-foundations) |
+| Learn agents from official labs | [Claude Academy, OpenAI, Mistral, Google, Hugging Face](learning.md#official-model-lab-academies) |
+| Learn production AI engineering | [DeepLearning.AI, Microsoft Learn, Full Stack Deep Learning](learning.md#agentic-ai-and-llm-application-courses) |
+| Learn hardware and edge AI | [NVIDIA DLI, Edge Impulse, TinyML, ROS 2](learning.md#hardware-edge-ai-and-physical-systems) |
+| Choose a paid course carefully | [Marketplace guidance](learning.md#paid-marketplaces-how-we-include-them-responsibly) |
+
 ## Browse by constraint
 
 | Constraint | Good starting points |
