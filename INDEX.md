@@ -37,6 +37,7 @@ The fast path through Vibe Code Your Own X. For context and evidence, open the l
 | How do agents remember? | [Memory and local-first agents](landscape.md#memory-and-local-first-personal-agents) |
 | How do agents enter the physical world? | [Science and embodied intelligence](landscape.md#scientific-discovery-and-embodied-intelligence) |
 | What are people actually shipping? | [Vibe Coded Hall of Fame](hall-of-fame.md) |
+| Where do new projects and techniques surface? | [People & Feeds](people-and-feeds.md) |
 | How did this collection get made? | [Research log](research-log.md) |
 
 ## Learn before you build

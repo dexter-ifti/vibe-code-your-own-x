@@ -67,6 +67,16 @@ This log exists so the collection shows its work. It records what was searched, 
 
 **Representative sources:** [Claude Academy](https://academy.claude.com/), [OpenAI Learn](https://developers.openai.com/learn), [Mistral cookbooks](https://docs.mistral.ai/resources/cookbooks), [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction), [DeepLearning.AI Agentic AI](https://www.deeplearning.ai/courses/agentic-ai), [Stanford CS25](https://web.stanford.edu/class/cs25/), and [NVIDIA DLI teaching kits](https://developer.nvidia.com/teaching-kits).
 
+## Pass 7 — Social discovery feeds and primary-source promotion
+
+**Date:** 2026-10-11
+
+**Focus:** contributor-supplied X posts and recurring engineering/education feeds that can expose projects before they become established repositories or courses.
+
+**Output:** [`people-and-feeds.md`](people-and-feeds.md).
+
+**Editorial rule:** social posts are leads, not evidence. We preserve the original link for provenance, then promote only the linked primary resource after inspection. This keeps the collection discoverable without confusing a post, account, or viral demo with a durable learning resource.
+
 ## Promotion rules
 
 Every candidate is assigned one of four homes:

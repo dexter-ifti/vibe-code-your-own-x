@@ -46,6 +46,8 @@ For a broader map of existing tutorials, frameworks, coding agents, memory syste
 
 The [`hall-of-fame.md`](hall-of-fame.md) collects exceptional real-world builds and the engineering lessons we can extract from them.
 
+The [`people-and-feeds.md`](people-and-feeds.md) page tracks high-signal social discovery sources and the canonical engineering or learning destinations behind them.
+
 The [`research-log.md`](research-log.md) records the research passes, promotion rules, and next areas to investigate so this collection stays auditable as it grows.
 
 The comparison with the original [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x), including the gaps we are closing, is in [`comparison.md`](comparison.md). The long-term plan is in [`ROADMAP.md`](ROADMAP.md).
